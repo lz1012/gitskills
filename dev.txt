@@ -1,10 +1,5 @@
 dsadasdfasdfasdf
-<<<<<<< HEAD
 
 Creating a new branch is quick AND simple.
-=======
-团队中其他人修改dev分支
 
-我修改了dev分支
-
->>>>>>> 84be1e1178e475f2f347b0775921a20d16547a8c
+我在dev分支上
